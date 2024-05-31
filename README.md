@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andremo77
-- 👀 I’m interested in Data Analysis and Business Development
-- 🌱 I’m currently learning more about Python and R, as working on my SQL and Data Visualization Skills
-- 💞️ I’m looking to collaborate on a variety of projects related to Data Analysis
+- 👀 I’m interested in Marketing and Sales Data Analysis 
+- 🌱 I’m currently learning more about Python, R, and working on my SQL and Data Visualization Skills
+- 💞️ I’m looking to collaborate on a variety of projects related to Data Analytics
 
 //Editing underway... Will be back to add more information.
 
